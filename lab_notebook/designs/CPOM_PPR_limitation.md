@@ -73,3 +73,15 @@ Replication = 5 replicates of each treatment level
 16. In 15 ml conical tube, extract Chl-a from each filter (10 bottles + 5 initial) with 90% acetone for ~24 h.
 
 17. Read fluorescence on Turner Trilogy. 
+
+### Schedule
+
+* Before March 11 - acid wash bottles
+
+* March 11 - Set up bottles (steps 2 - 7)
+ 
+* March 12 - Add CPOM (steps 8 - 14)
+
+* March 18 - Collect Chl-a (steps 15 - 16)
+
+* March 19 - Read fluorescence (step 17)
