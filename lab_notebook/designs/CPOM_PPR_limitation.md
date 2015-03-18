@@ -4,6 +4,8 @@
 
 ## KF and JM
 
+* Modified 18 March 2015 - KF - added sample collection details
+
 ### Research Question
 
 How does the presence of CPOM in the sediments affect the limitation of PPR in small ponds?
@@ -85,3 +87,57 @@ Replication = 5 replicates of each treatment level
 * March 18 - Collect Chl-a (steps 15 - 16)
 
 * March 19 - Read fluorescence (step 17)
+
+### Sampling Procedure Details
+
+After the incubation it is clear that there is more going on than simple changes in algal biomass. The details of the observations are in `CPOM_PPR_limitation_incubation_notes_sp2015.md`
+
+Based on these observations, we need to collect more samples to fully understand what is happening in the bottles and system.
+
+#### Sample List
+
+1. Chl-a (GFF, frozen)
+
+2. Absorbance (5 ml, filtered)
+
+3. Nutrients (30 ml, filtered)
+
+4. pH (whole bottle unfiltered)
+
+5. Surface Sediment Chl-a (1 X 0.8 cm core)
+
+6. Surface Sediment OM (1 X 0.8 cm core)
+
+7. Total Sediment OM (n X 0.8 cm core)
+
+8. CPOM AFDM (19 disks)
+
+9. CPOM algal community (1 disk wet mount)
+
+10. Benthic algal community (surface sediment wet mount)
+
+#### Sampling Protocol
+
+1. Remove 19 CPOM disks from BOD bottle and place in pre-weighed crucible
+
+2. Make a wet-mount of a single disk - take photo
+
+3. Measure pH of the water
+
+4. Remove 5 ml of water from BOD and filter through GFF into 15 ml conical tube for absorbance.
+
+5. Remove 30 ml of water from BOD and filter through the same GFF into a 50 ml conical tube to freeze for nutrients
+
+6. Continue to filter water through GFF until adequate Chl-a sample is collected on the filter
+
+7. Siphon off the remaining overlying water from each BOD
+
+8. Collect a surface sediment core from the BOD and add to a pre-weighed scintillation vial
+
+9. Collect a total sediment core and add to a pre-weighed scintillation vial
+
+10. Collect a surface sediment core and dilute in a 50 ml conical tube to 30 ml with DI water
+
+11. Filter 10 ml of the diluted and homogenized sediment onto a GFF
+
+12. Collect a surface sediment core and make a wet-mount
