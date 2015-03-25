@@ -24,6 +24,17 @@ To measure the Chl and phaeophyton I used the methods described in section 8.0 o
 
 4. The "no-acid" vial was then read on the fluorometer.
 
+## Variables
+
+* samp = the name of the calibration level
+
+* chl = the nominal chl concentration of the calibration level (ug/L)
+
+* no.A = the fluorescence before the acid was added (RFU)
+
+* A = the fluorescence after the acid was added (RFU)
+
+
 ## Data
 
     samp <- c("blank", "L", "H", "blank", "L", "H")
@@ -31,6 +42,8 @@ To measure the Chl and phaeophyton I used the methods described in section 8.0 o
     no.A <- c(1988.49, 43195.17, 428082.53, 1982.33, 41861.96, 435117.65)
     A <- c(NA, 25703.12, 244058.78, 1858.96, 24543.47, 239473.45)
     fl <- data.frame(samp, chl, no.A, A)
+
+    write.table(fl, "./data/fluorometer_calibration_11Feb2015.csv", row.names = F, quote = F, sep = ",")
     
 ~~~~
 
@@ -43,6 +56,8 @@ To measure the Chl and phaeophyton I used the methods described in section 8.0 o
 6     H 200.0 435117.65 239473.45
 
 ~~~~
+
+# BELOW IS NOT THE CALIBRATION - THIS IS BEING RETAINED SO IT CAN BE USED FOR DEMONSTRATON IN CLASS
 
 ## Calibration
 ### Chl - a "No Acid""
