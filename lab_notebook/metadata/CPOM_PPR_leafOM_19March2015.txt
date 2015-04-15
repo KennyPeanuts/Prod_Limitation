@@ -1,0 +1,29 @@
+# Data Entry and Metadata for Leaf Disk from the CPOM - PPR limitation Experiment
+
+## Spring 2015
+
+* file created 15 April 2015 - JM
+
+## Metadata
+
+These data represent the measurements taken to calculate the organic matter content in the leaves added to the treatments in the experiment testing the effect of CPOM on primary production.
+
+The experimental details are described in `CPOM_PPR_limitation_BOD_sampling_sp2015.md` and `CPOM_PPR_limitation_BOD_setup_sp2015.md`
+
+Briefly the BOD bottles were filled with 100 ml of sediment slurry and 200 ml of overlying water from LPP. Half of the bottles got 20, 10 mm tulip poplar leaf disks and the other received no amendment. The bottles were then placed in the greenhouse for 7 days. The leaf disk were extracted from the BOD bottles using needle nose tweezers and a metal spatula. The leaf disks were placed in one of five weighing boats respectfully to the BOD bottle it was paired with. The leaf disk were transferred to pre-weighed crucibles and set into the oven to dry out and later be weighed. After the all the weights were taken the crucibles containing the leaf disk were put into the furnace for 5 hours at 550 degrees Celsius. A final weight was taken.
+
+Samples were collected 18 March 2015. 
+
+## Variables
+
+* BOD = the identifying number of the BOD bottle used in the experiment. 
+
+* leaf.disk = the number of leaves extracted from the BOD bottles after 7 days
+
+* cruc = the number on the bottom of the crucible
+
+* cruc.mass = the mass of the crucible empty (g)
+
+* cruc.cpom = the mass of the crucible and the leaf disk before ashing (g)
+
+* cruc.ash = the mass of the crucible and the leaf disk after ashing (g)
