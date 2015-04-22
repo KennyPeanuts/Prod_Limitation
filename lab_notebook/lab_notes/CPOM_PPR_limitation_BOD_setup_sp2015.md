@@ -13,6 +13,7 @@ Field collection of sediments and water to fill the BOD bottles for the CPOM-PPR
 
 ## Procedure
 ### Sediment Collection
+#### 11 March 2015
 
 Sediments were collected from LPP near the shoreline by the inlet and by the dam-side opposite the outlet. In both cases we waded out with waders to water that was approximately 0.7 m deep and collected several Ekman dredges that were combined into a single basin.
 
@@ -50,6 +51,7 @@ The lake level was up and the water was somewhat turbid from the recent rain.
 There were some old mats of filamentous algae near the shoreline. 
 
 ### Treatment Assignment and Set-up
+#### 12 March 2015
 
 The treatments were assigned to bottles using a random number table
 
@@ -69,10 +71,26 @@ The treatments were assigned to bottles using a random number table
 
 To each of the bottles designated CPOM, we added 20, 10 mm leaf disks cut from senecent tulip poplar leaves collected during the Fall of 2013. The leaf disks were cut by briefly softening the leaves in DI water (~ 5 m), and then cutting with a number 5 cork borer. The leaf disks were cut on 11 March 2015 and refidgerated.
 
-The bottles were arranged in the greenhouse in the "humid room" in 5 blocks
+The bottles were arranged in the greenhouse in the "humid room" in 5 blocks at the end of the day on 12 March 2015.
 
 
     _________window_____________________
     block 1: 10 1   block 4: 2 3
     block 2:  4 6   block 5: 8 9
     block 3:  5 7 
+
+### Initial Cholorphyll Sampling
+#### 12 March 2015
+
+We filtered 3 replicates of the water that was collected on 11 March 2015 through GFF filters and low vacume
+
+The GFF and collected algae was added to a folil-wrapped 15 ml conical tube and frozen
+
+| Sample | Rep | Volume Filtered (ml) |
+| ------ | --- | ----------------- |
+| Initial | A | 110 |
+| Initial | B | 110 |
+| Initial | B | 110 |
+| | |
+
+
